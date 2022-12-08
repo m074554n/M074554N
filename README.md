@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-I'm Mohamed Hassan (m074554n), a problem solver and a software developer.
+I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an OpenSource enthusiast.
 
 Some facts about me:
 
