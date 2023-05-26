@@ -4,7 +4,6 @@
 <p align='center'>
 <a href="https://linkedin.com/in/m074554n/"><img height="32" src="https://github.com/M074554N/M074554N/blob/main/linkedin.png"></a>
 <a href="https://twitter.com/m074554n/"><img height="32" src="https://github.com/M074554N/M074554N/blob/main/twitter.png"></a>
-<a href="https://buymeacoffee.com/m074554n"><img height="32" src="https://github.com/M074554N/M074554N/blob/main/buymeacoffee.png"></a>
 </p>
 
 ## Hi there 👋
