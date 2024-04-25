@@ -56,6 +56,6 @@ I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an Op
 
 Some facts about me:
 
-- 👨‍💻 My favourite language is PHP 😛
-- 🔭 I’m currently working on [Nashrify.com](https://nashrify.com)
+- 👨‍💻 My favorite language is PHP 😛
+- 🔭 I’m currently working on [elKalendar.com](https://elkalendar.com)
 - 📫 How to reach me: mo@yottahq.com
