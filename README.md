@@ -45,12 +45,11 @@ I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an Op
 
 ### My packages
 
-[![Laravel Extended Auth](https://github-readme-stats.vercel.app/api/pin/?username=yottahq&repo=laravel-extended-auth&show_owner=true
-)](https://github.com/yottahq/laravel-extended-auth)
+[![elKalendar](https://github-readme-stats.vercel.app/api/pin/?username=elkalendar&repo=elkalendar&show_owner=true
+)](https://github.com/elkalendar/elkalendar)
 
 
 Some facts about me:
 
-- 👨‍💻 My favorite language is PHP 😛
-- 🔭 I’m currently working on [elKalendar.com](https://elkalendar.com)
+- 🔭 I’m currently working on [elKalendar](https://github.com/elkalendar/elkalendar)
 - 📫 How to reach me: mo@yottahq.com
