@@ -1,6 +1,4 @@
 
-# [![Mohamed Hassan @m074554n header](https://raw.githubusercontent.com/M074554N/M074554N/main/cover.png)](https://github.com/m074554n)
-
 ## Hi there 👋
 
 I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an OpenSource enthusiast.
@@ -43,11 +41,8 @@ I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an Op
   <img src="https://skillicons.dev/icons?i=graphql" />
 </div>
 
-### My packages
-
-[![elKalendar](https://github-readme-stats.vercel.app/api/pin/?username=elkalendar&repo=elkalendar&show_owner=true
-)](https://github.com/elkalendar/elkalendar)
-
+### My latest projects
+![elkalendar](https://github-readme-stats.vercel.app/api/pin/?username=elkalendar&repo=elkalendar&show_owner=true&theme=tokyonight)
 
 Some facts about me:
 
