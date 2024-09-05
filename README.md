@@ -45,7 +45,8 @@ I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an Op
 </div>
 
 ### My latest projects
-![elkalendar](https://github-readme-stats.vercel.app/api/pin/?username=elkalendar&repo=elkalendar&show_owner=true&theme=tokyonight)
+[![elkalendar](https://github-readme-stats.vercel.app/api/pin/?username=elkalendar&repo=elkalendar&show_owner=true&theme=tokyonight)](https://github.com/elkalendar/elkalendar)
+
 
 Some facts about me:
 
