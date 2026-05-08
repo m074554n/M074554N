@@ -30,7 +30,6 @@ I'm Mohamed Hassan (m074554n), a problem solver, a software developer, and an op
   <img src="https://skillicons.dev/icons?i=prisma" />
   <img src="https://skillicons.dev/icons?i=sass" />
   <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=typescript" />
   <img src="https://skillicons.dev/icons?i=python" />
   <img src="https://skillicons.dev/icons?i=dynamodb" />
